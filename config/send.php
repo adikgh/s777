@@ -4,7 +4,7 @@
 	// https://api.telegram.org/bot1082028620:AAGRXcmhEtOlK3Z29Fa7Vq6JfIK1Uwdw-P4/getUpdates
 		
 	$token = "1082028620:AAGRXcmhEtOlK3Z29Fa7Vq6JfIK1Uwdw-P4";
-	$chat_id = "-4010307581";
+	$chat_id = "-4177726510";
 
 
 	// 
@@ -16,7 +16,6 @@
 		$phone = substr_replace($phone, '8', 0, 1);
 
 		$arr = array(
-			'Cайт: '		=> 'AsylB',
 			'Типі: '		=> $sms,
 			'Аты-жөні: '	=> $name,
 			'Телефон: ' 	=> $phone
@@ -38,7 +37,6 @@
 		$phone = substr_replace($phone, '8', 0, 1);
 
 		$arr = array(
-			'Cайт: '		=> 'AsylB',
 			'Типі: '			=> $sms,
 			'Телефон: ' 	=> $phone
 		);
@@ -63,7 +61,6 @@
 		$phone = substr_replace($phone, '8', 0, 1);
 
 		$arr = array(
-			'Cайт: '		=> 'AsylB',
 			'Типі: '						=> 'Тест №1',
 			'Адам саны: ' 				=> $tv1,
 			'Дем алу күні: ' 			=> $tv2,
@@ -93,7 +90,6 @@
 		$phone = substr_replace($phone, '8', 0, 1);
 
 		$arr = array(
-			'Cайт: '		=> 'AsylB',
 			'Типі: '			=> 'Забронировать',
 			'Санатория: '	=> $sms1,
 			'Номер: '		=> $sms2,
