@@ -65,7 +65,7 @@
                             </div>
                             <? if ($ana['btn']): ?>
                                 <div class="bl5_icbtn">
-                                    <div class="btn">Забронировать</div>
+                                    <div class="btn disb_zab">Забронировать</div>
                                     <!-- <a class="btn btn_bl2" href="#">Подробнее</a> -->
                                 </div>
                             <? endif ?>
