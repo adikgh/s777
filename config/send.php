@@ -4,7 +4,7 @@
 	// https://api.telegram.org/bot1082028620:AAGRXcmhEtOlK3Z29Fa7Vq6JfIK1Uwdw-P4/getUpdates
 		
 	$token = "1082028620:AAGRXcmhEtOlK3Z29Fa7Vq6JfIK1Uwdw-P4";
-	$chat_id = "-4177726510";
+	$chat_id = "-1002074743635";
 
 
 	// 
